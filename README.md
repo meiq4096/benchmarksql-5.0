@@ -4,6 +4,10 @@ BENCHMARKSQL README
 CHANGE LOG:
 -----------
 
+Version 5.0.1 :
+--------------------------------------
+  + add oceanbase configuration file (run/props.ob) and sql scripts (run/sql.oceanbase/*.sql) .
+
 Version 5.0 lussman & jannicash:
 --------------------------------------
   +  Upgrade to PostgreSQL 9.3 JDBC 4.1 version 1102 driver
